@@ -1,0 +1,7 @@
+{
+    "compilerOptions": {
+        "baseUrl": "src",
+    },
+    "include": ["src/**/*"]
+    // Digunakan untuk memudahkan ketika menggunakan folder agar lebih spesifik
+}
